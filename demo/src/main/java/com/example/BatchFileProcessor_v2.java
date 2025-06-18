@@ -227,7 +227,7 @@ public class BatchFileProcessor_v2 {
         }
     }
     
-    // Read what batch number we're currently working on
+    // Read what batch number is currently being worked on
     static int getCurrentBatchNumber(String filename) {
         try {
             String progressFile = filename.replace(".log", "_progress.txt");
