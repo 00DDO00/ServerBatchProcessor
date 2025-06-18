@@ -1,0 +1,57 @@
+Batch 2 for Warning-2025-06-18.log - Records:
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:07.992+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:07.992+03:00"},"Id":149569,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:12.027+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:12.027+03:00"},"Id":150061,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:16.143+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:16.143+03:00"},"Id":150553,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:20.209+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:20.209+03:00"},"Id":151045,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:24.245+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:24.245+03:00"},"Id":151537,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:28.282+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:28.282+03:00"},"Id":152029,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:32.309+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:32.309+03:00"},"Id":152521,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:36.363+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:36.363+03:00"},"Id":153013,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:40.395+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:40.395+03:00"},"Id":153505,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:44.508+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:44.508+03:00"},"Id":153997,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:48.561+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:48.561+03:00"},"Id":154489,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:52.582+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:52.582+03:00"},"Id":154981,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:44:56.622+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:44:56.622+03:00"},"Id":155473,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:00.652+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:00.652+03:00"},"Id":155965,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:04.683+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:04.683+03:00"},"Id":156457,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:08.716+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:08.716+03:00"},"Id":156949,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:12.759+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:12.759+03:00"},"Id":157441,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:16.793+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:16.793+03:00"},"Id":157933,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:20.828+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:20.828+03:00"},"Id":158425,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:24.893+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:24.893+03:00"},"Id":158917,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:28.933+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:28.933+03:00"},"Id":159409,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:32.998+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:32.998+03:00"},"Id":159901,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:37.036+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:37.036+03:00"},"Id":160393,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:41.120+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:41.120+03:00"},"Id":160885,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:45.148+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:45.148+03:00"},"Id":161377,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:49.234+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:49.234+03:00"},"Id":161869,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:53.294+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:53.294+03:00"},"Id":162361,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
+---RECORD---
+{"Data":{"Type":"Warning","Creation":{"Epoch":1464709728500,"Date":"2025-06-18T16:45:57.357+03:00"},"Process":{"Start":{"Epoch":1464709722277,"Date":"2025-06-18T16:45:57.357+03:00"},"Id":162853,"Name":"worker.exe"},"Method":{"Type":"Services","Assembly":"ServiceRepository, Version=1.0.0.1, Culture=neutral, PublicKeyToken=null","Name":"Order"},"Layer":"DailyScheduler"}}
