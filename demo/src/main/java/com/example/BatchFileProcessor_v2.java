@@ -6,12 +6,11 @@ import java.util.*;
 public class BatchFileProcessor_v2 {
     
     public static void main(String[] args) throws Exception {
-        System.out.println("Starting batch processor...");
         
         while (true) {
             try {
                 checkForLogFiles();
-                Thread.sleep(5000); // Wait 5 seconds
+                Thread.sleep(5000); 
             } catch (Exception e) {
                 System.out.println("Error: " + e.getMessage());
             }
@@ -37,24 +36,20 @@ public class BatchFileProcessor_v2 {
     static void processFile(File file) throws Exception {
         String filename = file.getName();
         
-        // Total record count from the file
+        // "Record count: x""
         int totalRecordCount = getTotalRecordCount(file);
         
-        // Read ALL records from THIS specific file type only
+        // from this specific file type only. i.e. Information
         List<String> allRecords = readRecords(file);
         
         // Save position for this file type
         int lastProcessed = getLastProcessedRecord(filename);
         int currentBatch = getCurrentBatchNumber(filename);
 
-        // Get ACTUAL count from the batch file, not from progress file
+        // Get count from the batch file
         int recordsInCurrentBatch = getBatchSize(filename, currentBatch);
         
-        System.out.println("File: " + filename + " - Total record count from file: " + totalRecordCount + 
-                          " - Actual records: " + allRecords.size() + 
-                          " - Last processed: " + lastProcessed +
-                          " - Current batch: " + currentBatch +
-                          " - Records in current batch: " + recordsInCurrentBatch);
+        System.out.println("File: " + filename + " - Total record count from file: " + totalRecordCount + "/n" + " - Actual records: " + allRecords.size() + "/n" + " - Last processed: " + lastProcessed + "/n" + " - Current batch: " + currentBatch + "/n" + " - Records in current batch: " + recordsInCurrentBatch);
         
         // Process records ONE BY ONE from where the program was stopped
         for (int i = lastProcessed; i < allRecords.size(); i++) {
@@ -62,10 +57,8 @@ public class BatchFileProcessor_v2 {
             
             // Check if current batch is full (100 records)
             if (recordsInCurrentBatch >= 100) {
-                System.out.println(filename + " - Batch " + currentBatch + " complete with 100 records");
                 currentBatch++; //Move to next batch
                 recordsInCurrentBatch = 0; //Reset count in the current next batch
-                System.out.println(filename + " - Starting new batch " + currentBatch);
             }
             
             // Add this record to the current batch for respective file type
@@ -75,8 +68,7 @@ public class BatchFileProcessor_v2 {
             // Update progress for this file type (position and batch number)
             saveProgress(filename, i + 1, currentBatch);
             
-            System.out.println(filename + " - Processed record " + (i + 1) + 
-                             " → Batch " + currentBatch + " (Record " + recordsInCurrentBatch + " in batch)");
+            System.out.println("Record " + recordsInCurrentBatch + " in batch");
         }
     }
     
